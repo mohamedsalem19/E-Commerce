@@ -1,0 +1,15 @@
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\bin\Debug\net6.0\ECommerce.Services.deps.json
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\bin\Debug\net6.0\ECommerce.Services.dll
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\bin\Debug\net6.0\ECommerce.Services.pdb
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.AssemblyInfoInputs.cache
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.AssemblyInfo.cs
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.dll
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\refint\ECommerce.Services.dll
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.pdb
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ref\ECommerce.Services.dll
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\bin\Debug\net6.0\ECommerce.Core.dll
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\bin\Debug\net6.0\ECommerce.Core.pdb
+C:\Users\Mohamed\Desktop\ECommerce.API Solution\ECommerce.Services\obj\Debug\net6.0\ECommerce.Services.csproj.CopyComplete
